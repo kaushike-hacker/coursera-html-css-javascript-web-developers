@@ -1,2 +1,2 @@
 # coursera-html-css-javascript-web-developers
-just a repository for solution
+just a repository for solution.
